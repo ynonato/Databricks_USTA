@@ -1,0 +1,12 @@
+# Proyecto Databricks – Ingesta, Limpieza y Visualización de Datos
+
+Este proyecto tiene como objetivo principal la recolección, limpieza y visualización de datos provenientes de fuentes públicas del gobierno colombiano. El análisis se realizará en Databricks utilizando PySpark y otras herramientas del ecosistema.
+
+## 🔍 Objetivo
+
+- Ingerir datos desde APIs públicas (SECOP y MEN).
+- Realizar limpieza y transformación de datos.
+- Desarrollar visualizaciones interactivas y dashboards dentro de Databricks.
+
+## 📁 Estructura del Proyecto
+
